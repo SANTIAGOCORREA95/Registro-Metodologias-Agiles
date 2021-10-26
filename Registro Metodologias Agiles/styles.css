@@ -1,0 +1,19 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Architects Daughter', cursive;
+    
+}
+
+
+body {
+    background-image: url('./img/fondo-azul.jpg');
+   
+}
+
+h1{
+    color: #fcf9f9;
+    text-align: center;
+}
